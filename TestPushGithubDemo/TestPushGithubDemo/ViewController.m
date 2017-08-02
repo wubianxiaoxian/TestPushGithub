@@ -17,6 +17,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"https://github.com/wubianxiaoxian/TestPushGithub.git");
+    NSLog(@"https://github.com/wubianxiaoxian/TestPushGithub.git");
+    NSLog(@"https://github.com/wubianxiaoxian/TestPushGithub.git");
+
     // Do any additional setup after loading the view, typically from a nib.
 }
 
